@@ -109,5 +109,6 @@ mvn clean package -Dspring-boot.includes=
 
 # 不爱喝咖啡，豆浆就行:smile:
 
-![zfb收款](https://github.com/wuyueshenggong/thin-spring-boot-maven-plugin/assets/131785606/6aa0084c-60ef-4a97-afe2-e054fd57e640)
+![zfb微信](https://github.com/wuyueshenggong/thin-spring-boot-maven-plugin/assets/131785606/f5188ada-ad31-4259-9303-171effebc1ce)
+
 
